@@ -62,8 +62,7 @@ function refreshWeather(response) {
                 <div class="weather-forecast-date">${day}</div>
                 <div class="weather-forecast-icon">☀️</div>
                 <div class="weather-forecast-temperature">
-                    <div class="weather-forecast-temperature"><strong>9°</strong></div>
-                    <div class="weather-forecast-temperature">19°</div>
+                <div class="weather-forecast-temperature"><strong>9°</strong>19°</div>
                 </div>
             </div>;
     });
